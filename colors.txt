@@ -19,7 +19,6 @@ lavender
 lime
 magenta
 maroon
-olden
 olive
 orange
 pink
